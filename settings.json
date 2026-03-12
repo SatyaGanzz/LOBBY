@@ -1,15 +1,14 @@
 {
-  "name": "AFK Bot",
+  "name": "SatyaaGanzz 24/7 uptime bot",
   "bot-account": {
-    "username": "imgonnacream",
+    "username": "UPTIME24_7",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "7L_SMP_is_real.aternos.me",
-    "port": 62213,
-    "version": "",
-    "try-creative": false
+    "ip": "satkerz.falixsrv.me",
+    "port": 23263,
+    "version": "1.21.1"
   },
   "position": {
     "enabled": true,
@@ -29,17 +28,32 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 120,
+      "repeat-delay": 180,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "Gacor",
+        "Satya TN 36 Fineshyt",
+        "I like to play",
+        "Gilaa",
+        "Sini",
+        "Hadeh",
+        "apa sih..",
+        "apaan?",
+        "./sell buat dapet duid",
+        "buset",
+        "tau",
+        "./shop buat beli barang",
+        "oke",
+        "nanti dah",
+        "kalo inget",
+        "./tpa buat tp",
+        "./warp buat tp lokasi",
+        "./skins buat ganti skin"
       ]
     },
     "chat-log": true,
     "auto-reconnect": true,
     "auto-reconnect-delay": 2000,
-    "max-reconnect-delay": 120000,
+    "max-reconnect-delay": 6000,
     "periodic-rejoin": {
       "enabled": false,
       "min-interval": 20,
